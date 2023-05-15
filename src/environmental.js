@@ -3,7 +3,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ##The Green Grid 
 
-The Green Grid is a global consortium of companies and organizations that are committed to advancing energy efficiency in data centers and other computing environments. While the primary focus of The Green Grid is on reducing the environmental impact of computing, the organization also recognizes the importance of cybersecurity in data center operations. By promoting best practices in energy efficiency, The Green Grid helps to reduce the risk of cybersecurity breaches that can result from poorly designed or maintained computing environments. 
+![The Green Grid](https://www.snia.org/sites/default/files/about/alliances/tgg_logo_1.png)
+
+[The Green Grid](https://www.snia.org/about/alliances/green_grid) is a global consortium of companies and organizations that are committed to advancing energy efficiency in data centers and other computing environments. While the primary focus of The Green Grid is on reducing the environmental impact of computing, the organization also recognizes the importance of cybersecurity in data center operations. By promoting best practices in energy efficiency, The Green Grid helps to reduce the risk of cybersecurity breaches that can result from poorly designed or maintained computing environments. 
 
 For example, data centers that are not properly cooled or ventilated can become hot spots for cyberattacks, as the heat can cause hardware failures or make it easier for attackers to gain access to sensitive systems. By promoting the use of energy-efficient cooling and ventilation systems, The Green Grid helps to minimize these risks and improve the overall security of data centers. 
 
@@ -22,9 +24,11 @@ Here as some steps Companies can take to apply the Green Grid to their data cent
 Overall, The Green Grid plays an important role in promoting both energy efficiency and cybersecurity in data centers and other computing environments. By promoting best practices and sharing knowledge and expertise, The Green Grid helps organizations to build more resilient and sustainable computing environments, while also reducing the risk of cyberattacks and data breaches. 
 
 <br>
-##Energy Star for Data Centers 
+##Energy Star for Data Centers
 
-Energy Star for Data Centers is a certification program developed by the U.S. Environmental Protection Agency __(EPA)__ that recognizes energy-efficient data centers and provides guidance on best practices for energy efficiency in data center operations. While the primary focus of Energy Star for Data Centers is on reducing energy consumption and environmental impact, the program also recognizes the importance of cybersecurity in data center operations. By promoting energy-efficient design and management practices, Energy Star for Data Centers can help to reduce the risk of cybersecurity breaches that can result from poorly designed or maintained computing environments. For example, data centers that are not properly cooled or ventilated can become hot spots for cyberattacks, as the heat can cause hardware failures or make it easier for attackers to gain access to sensitive systems. By promoting energy-efficient cooling and ventilation systems, Energy Star for Data Centers helps to minimize these risks and improve the overall security of data centers.  
+![Energy Star for Data Centers](https://www.energystar.gov/sites/default/files/assets/images/ES_logo_LearnMore_v_copyright_1.jpg)
+
+[Energy Star for Data Centers](https://www.energystar.gov/products/data_centers) is a certification program developed by the U.S. Environmental Protection Agency __(EPA)__ that recognizes energy-efficient data centers and provides guidance on best practices for energy efficiency in data center operations. While the primary focus of Energy Star for Data Centers is on reducing energy consumption and environmental impact, the program also recognizes the importance of cybersecurity in data center operations. By promoting energy-efficient design and management practices, Energy Star for Data Centers can help to reduce the risk of cybersecurity breaches that can result from poorly designed or maintained computing environments. For example, data centers that are not properly cooled or ventilated can become hot spots for cyberattacks, as the heat can cause hardware failures or make it easier for attackers to gain access to sensitive systems. By promoting energy-efficient cooling and ventilation systems, Energy Star for Data Centers helps to minimize these risks and improve the overall security of data centers.  
 
 Here as some steps Companies can take to apply the Energy Star to their data centers: 
 
