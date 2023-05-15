@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   const mainSectionMarkdown = `
+#404 Amadeus's Work Not Found
 `;
 
   const sidebarFirstMarkdown = `

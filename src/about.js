@@ -15,6 +15,13 @@ constant thirst for knowledge, Carter aims to contribute to a safer digital worl
 ##About Orlando
 
 ![Orlando](../static/orlando.png)
+
+Orlando J. Gomez is a cyber security aficionado, profoundly immersed in the field
+and deeply involved in a prominent cyber security club. He is committed to promoting
+a culture of security awareness, leveraging his leadership role to share knowledge and
+encourage peers to explore the rapidly evolving landscape of digital security. With a
+firm belief in collaborative learning, Orlando continues to drive efforts in defending
+against emerging cyber threats.
 `;
 
   const sidebarFirstMarkdown = `
