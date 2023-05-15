@@ -1,5 +1,9 @@
 document.addEventListener("DOMContentLoaded", () => {
   const mainSectionMarkdown = `
+
+##Welcome to the Sustainability Project!
+###Select a Pillar to begin.
+
 `;
 
   const sidebarFirstMarkdown = `
